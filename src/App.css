@@ -1,0 +1,13 @@
+.display{
+  display: grid;
+  grid-template-columns: repeat(3,4fr);
+  text-align: center;
+  row-gap: 30px;
+}
+
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
